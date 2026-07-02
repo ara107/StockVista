@@ -44,9 +44,9 @@ A modern **Real-Time Stock Market Dashboard** built with **Python**, **Streamlit
 Clone the repository
 
 ```bash
-git clone https://github.com/ara107/Stock_Vista.git
+git clone https://github.com/ara107/StockVista.git
 pip install -r requirements.txt
-streamlit run Stock_Vista.py
+streamlit run StockVista.py
 
 
 ---
